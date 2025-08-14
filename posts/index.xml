@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on ilverolohacker</title>
-    <link>https://ilverolohacker.github.io/</link>
-    <description>Recent content in Home on ilverolohacker</description>
+    <title>Articoli on ilverolohacker</title>
+    <link>https://ilverolohacker.github.io/posts/</link>
+    <description>Recent content in Articoli on ilverolohacker</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 14 Aug 2025 21:00:00 +0200</lastBuildDate>
-    <atom:link href="https://ilverolohacker.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ilverolohacker.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Il mio primo post</title>
       <link>https://ilverolohacker.github.io/posts/post1/</link>
